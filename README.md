@@ -31,4 +31,4 @@ _HTMl_
 
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
-Copyright (c) 2020 **_E[icodus_**
+Copyright (c) 2020 **_Epicodus_**
