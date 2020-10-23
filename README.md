@@ -6,10 +6,11 @@
 
 ## Description
 
-_This project is a HTML page that was created for the Epicodus school week 1. That teaches basic syntax, spacing and indentation while linking multiple HTML pages_
+_This project is an HTML page that was created for the Epicodus school week 1. That teaches basic syntax, spacing and indentation while linking multiple HTML pages_
 
 ## Setup/Installation Requirements
 
+* _Clone this repository_
 * _Open the HTML file in a browser window_
 * _click on links to explore the project_
 
@@ -25,10 +26,11 @@ _Contact Author_
 
 ## Technologies Used
 
-_HTMl_  .
+* _HTMl_
+* _CSS_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This software is licenced under the MIT license.*
 
 Copyright (c) 2020 **_Epicodus_**
